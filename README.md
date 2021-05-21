@@ -107,6 +107,7 @@ export class MyResolver {
     return 'Hello'
   }
 }
+```
 
 ## Create permissions
 
