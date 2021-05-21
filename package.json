@@ -1,6 +1,6 @@
 {
   "name": "nestjs-casl-authorization",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NestJS casl authorization mannager",
   "author": "Luis Carlos Arias <luis.carlos.arias.camacho@gmail.com>",
   "license": "MIT",
