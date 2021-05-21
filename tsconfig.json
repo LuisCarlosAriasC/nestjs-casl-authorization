@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "declarationMap": true,
+    "noImplicitAny": false,
+    "removeComments": false,
+    "strict": true,
+    "strictNullChecks": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2017",
+    "sourceMap": false,
+    "lib": [
+      "es7"
+    ],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "noLib": false,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  },
+  "include": ["./src"],
+  "exclude": ["node_modules"]
+}
